@@ -38,6 +38,11 @@ h1{
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+
 .table-head{
     color: white;
     background-color: rgb(81, 153, 235);
@@ -45,6 +50,10 @@ h1{
 
 .table-row{
     background-color: lightskyblue;
+}
+
+.colonne-sinistra{
+    width: 250px;
 }
 
 .immagini{
