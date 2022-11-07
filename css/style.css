@@ -28,3 +28,15 @@ body {
 #caratteri-ridotti{
     font-size: 0.7em;
 }
+
+.evidenziato{
+    background-color: yellow;
+}
+
+.table-head{
+    background-color: rgb(68, 137, 216);
+}
+
+.table-row{
+    background-color: lightskyblue;
+}
