@@ -40,3 +40,21 @@ body {
 .table-row{
     background-color: lightskyblue;
 }
+
+.immagini{
+    height: 150px;
+}
+
+.monitor{
+    background-image: url(../img/img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.graph{
+    background-image: url(../img/img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
