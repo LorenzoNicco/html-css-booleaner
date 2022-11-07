@@ -2,8 +2,29 @@ body {
     width: 1080px;
 }
 
+#gruppo-titolo{
+    height: 300px;
+}
+
 #titolo-giornale{
+    height: 50%;
     background-image: url("../img/img/pattern.png");
     background-color: rgb(0, 102, 255);
-    
+    position: ;
+}
+
+#logo{
+    height: 30%;
+}
+
+.carattere-grigio{
+    color: gray;
+}
+
+.carattere-azzurro{
+    color: rgb(0, 140, 255);
+}
+
+#caratteri-ridotti{
+    font-size: 0.7em;
 }
