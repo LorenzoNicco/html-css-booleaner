@@ -38,6 +38,10 @@ h1{
     background-color: yellow;
 }
 
+ul{
+    padding-left: 20px;
+}
+
 table{
     border-collapse: collapse;
     text-align: left;
