@@ -1,14 +1,14 @@
-body {
+#articolo {
     margin: 0 auto;
     width: 80%;
 }
 
 #gruppo-titolo{
-    height: 300px;
+    height: 150px;
 }
 
-#titolo-giornale{
-    height: 50%;
+.titolo-giornale{
+    height: 150px;
     background-image: url("../img/img/pattern.png");
     background-color: rgb(38, 150, 255);
 }
@@ -16,6 +16,7 @@ body {
 #logo{
     height: 35%;
     margin-top: 90px;
+    margin-left: 10%;
 }
 
 h1{
@@ -36,6 +37,10 @@ h1{
 
 .evidenziato{
     background-color: yellow;
+}
+
+ul{
+    padding-left: 20px;
 }
 
 table{
