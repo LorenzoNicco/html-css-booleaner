@@ -1,0 +1,80 @@
+body {
+    margin: 0 auto;
+    width: 80%;
+}
+
+#gruppo-titolo{
+    height: 300px;
+}
+
+#titolo-giornale{
+    height: 50%;
+    background-image: url("../img/img/pattern.png");
+    background-color: rgb(38, 150, 255);
+}
+
+#logo{
+    height: 35%;
+    margin-top: 90px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+.carattere-grigio{
+    color: gray;
+}
+
+.carattere-azzurro{
+    color: rgb(0, 140, 255);
+}
+
+#caratteri-ridotti{
+    font-size: 0.7em;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.table-head{
+    color: white;
+    background-color: rgb(81, 153, 235);
+}
+
+.table-row{
+    background-color: lightskyblue;
+}
+
+.colonne-sinistra{
+    width: 250px;
+}
+
+.immagini{
+    height: 150px;
+    padding: 10px;
+}
+
+.monitor{
+    background-image: url(../img/img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.graph{
+    background-image: url(../img/img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+h4{
+    margin-bottom: 0px;
+}
